@@ -1,0 +1,10 @@
+currency,average
+USD,15.7378
+Euro​,17.3446
+PoundSterling​,20.56469
+SwissFranc​,16.21956
+JapaneseYen,14.43974
+SR​,4.19512
+KuwaitiDinar​,51.80481
+UAED,4.28412
+Chineseyuan​,2.26833

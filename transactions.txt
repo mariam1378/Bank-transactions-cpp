@@ -1,0 +1,3 @@
+1,mariam,5,400,USD,sell,6239.2
+2,ahmed,4,500,UAED,buy,2142.05
+3,islam,8,900,Euro,sell,15713.64
